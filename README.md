@@ -1,4 +1,5 @@
 === Add Product Column === 
+
 Contributors: jawadarshad
 Donate link: https://jawadarshad.io/
 Tags: add product column in order email, woocommerce order email, add text before order table, order table, woocommerce_email_before_order_table
